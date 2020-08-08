@@ -1,5 +1,5 @@
 <?php
-namespace PoP\UserMeta;
+namespace PoPSchema\UserMeta;
 
 interface FunctionAPI
 {

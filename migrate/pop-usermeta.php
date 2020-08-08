@@ -6,7 +6,7 @@ Description: The foundation for a PoP User Meta
 Plugin URI: https://getpop.org/
 Author: Leonardo Losoviz
 */
-namespace PoP\UserMeta;
+namespace PoPSchema\UserMeta;
 use PoP\Hooks\Facades\HooksAPIFacade;
 
 //-------------------------------------------------------------------------------------

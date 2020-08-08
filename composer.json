@@ -1,7 +1,7 @@
 {
-    "name": "getpop/migrate-usermeta",
+    "name": "pop-schema/migrate-usermeta",
     "type": "library",
-    "description": "(Temporary package) Migrate code to package https://github.com/getpop/usermeta. Target package description: Adds support for user meta",
+    "description": "(Temporary package) Migrate code to package https://github.com/pop-schema/usermeta. Target package description: Adds support for user meta",
     "keywords": [
         "PoP",
         "usermeta"

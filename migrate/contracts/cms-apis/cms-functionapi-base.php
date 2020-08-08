@@ -1,5 +1,5 @@
 <?php
-namespace PoP\UserMeta;
+namespace PoPSchema\UserMeta;
 
 abstract class FunctionAPI_Base implements FunctionAPI
 {
